@@ -1,5 +1,5 @@
 # Bike_Shop
-**Create Data Engineering End to End Project using Microsoft Azure**
+**I created an end-to-end data engineering project using Microsoft Azure.**
 
 Hello everyone today I gone be creating end to end data engineering project using azure.
 This project is all about moving data from on-premises sql server to cloud.
